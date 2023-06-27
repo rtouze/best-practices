@@ -20,7 +20,7 @@
 
 | Ressources saved  |
 |:-----------------:|
-| Réseau / Requêtes |
+| Network  / Requests |
 
 ### Description
 
