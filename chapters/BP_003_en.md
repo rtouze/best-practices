@@ -39,9 +39,9 @@ The time spent by the user on the terminal is the second largest environmental i
 
 ### Example
 
-On e-commerce services : 
+On e-commerce services: 
 * Propose a new order based on the content of the previous order.
-* Allow the users to buy things without registration
+* Allow the users to buy things without registration.
 * Allow the user to Copy/Paste his or her IBAN directly rather than uploading it.
 * Highlight the most used fields or filters.
 
