@@ -36,7 +36,7 @@ These processes must rather be carried out as close as possible to the data in o
 
 ### Example
 
-In the case of complex queries with large amounts of data, whan a relational database management system (RDBMS) is used, 
+In the case of complex queries with large amounts of data, when a relational database management system (RDBMS) is used, 
 stored procedures should be used because:
 
 - stored procedures save queries interpretation on server side since they are pre-compiled;
